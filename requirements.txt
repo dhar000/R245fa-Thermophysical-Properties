@@ -1,0 +1,6 @@
+CoolProp
+numpy
+pandas
+matplotlib
+openpyxl
+jupyter
